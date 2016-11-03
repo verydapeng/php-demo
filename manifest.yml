@@ -1,0 +1,4 @@
+applications:
+        - name: php2
+          memory: 128m
+          host: php-dapeng-1234
